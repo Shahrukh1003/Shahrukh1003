@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Shahrukh Saifi 👋
+I'm a 3rd-year B.Tech student majoring in AI and Data Science, passionate about building innovative solutions with machine learning, AI.
 
-<!--
-**Shahrukh1003/Shahrukh1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills & Technologies
+- **Languages:** Python, C++
+- **Frameworks:** TensorFlow, PyTorch, React
+- **Tools:** Git, Docker, VS Code, Jupyter
+- **Interests:** Data Visualization, Machine Learning, AI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shahrukh-saifi8278/)
+- Email: shahrukh.saifi.8278@gmail.com
