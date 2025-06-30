@@ -1,5 +1,5 @@
 ## Hi, I'm Shahrukh Saifi 👋
-I'm a 3rd-year B.Tech student majoring in AI and Data Science, passionate about building innovative solutions with machine learning, AI.
+I'm a final year B.Tech student majoring in AI and Data Science, passionate about building innovative solutions with machine learning, AI.
 
 ### 🛠️ Skills & Technologies
 - **Languages:** Python, C++
